@@ -1,0 +1,1341 @@
+#EXTM3U
+
+#EXTM3U x-url-tvg="https://www.open-epg.com/files/turkey.xml"
+#EXTM3U x-url-tvg="https://www.open-epg.com/files/turkey4.xml" 
+#EXTM3U x-url-tvg="https://www.open-epg.com/files/turkey1.xml" 
+#EXTM3U x-url-tvg="https://www.open-epg.com/files/turkey2.xml" 
+#EXTM3U x-url-tvg="https://www.open-epg.com/files/turkey3.xml" 
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR2.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml"
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml" 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
+
+
+
+
+#EXTINF:-1  tvg-id="TRT SPOR HD.tr" tvg-name="TRT SPOR HD" type="stream"  group-title="TR SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png" , TRT SPOR ᴴᴰ
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
+
+#EXTINF:-1 tvg-id="TRT Spor Yıldız.tr" tvg-name="TRT Spor Yıldız.tr" type="stream" group-title="TR SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png", TRT SPOR ✬ ᴴᴰ
+https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web
+
+
+#EXTINF:-1  type="stream" tvg-id="HT Spor.tr" tvg-name="HT Spor.tr"group-title="TR SPOR" tvg-logo="https://i.hizliresim.com/b8q238k.png", HT SPOR ᴴᴰ
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+
+#EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-name="A SPOR HD.tr" type="stream" group-title="TR SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png?20140920094553", A SPOR ᴴᴰ
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+# ? https://c.fulltvizle.com/aspor/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-id="TV8,5.tr" tvg-name="TV85" group-title="TR SPOR" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/TV-85.png", TV 8.5 ᴴᴰ
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+# ? https://tv.arectv3.xyz/live/tv85.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS HABER.tr" tvg-name="beIN SPORTS HABER" type="stream" group-title="TR SPOR" tvg-logo="https://i.imgur.com/jnCFU1q.png", beIN SPORTS HABER ᴴᴰ
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-name="beIN SPORTS 1" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ① 𝟴𝗞
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2113462398/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ① 🅺🆄🆃🆄
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/267105889/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ① 🆄🆈🅳🆄
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1536730627/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ① 🆇🅲
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1453692314/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ① 𝔽𝔼𝔼𝔻
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/499485497/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png", beIN SPORTS ① 𝟰𝗞
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png" , beIN SPORTS ① ᵁᴴᴰ
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&pid=13983
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="TR beIN SPORTS", beIN SPORTS ① ᶻᶦʳᵛᵉ
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinzirve.m3u8
+
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", beIN SPORTS ① ᴴᴰ
+https://16mumdur.shop/701/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", beIN SPORTS ①
+https://217.30.11.74/e/6570.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-name="beIN SPORTS 2" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ② ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3694662475/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png", beIN SPORTS ② ᴴᴰ
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinb2.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png", beIN SPORTS ② ᴴᴰ
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium63/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png", beIN SPORTS ②
+http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&pid=28299
+
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3.tr" tvg-name="beIN SPORTS 3" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ③ ᵁᴴᴰ 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3410167560/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png", beIN SPORTS ③ ᴴᴰ 
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinb3.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png", beIN SPORTS ③ ᴴᴰ 
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium64/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , beIN SPORTS ③ 
+http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=48566
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 4.tr" tvg-name="BEIN SPORTS 4 UHD (1)" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ④ ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2938268353/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 4" tvg-name="beIN SPORTS 4" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", beIN SPORTS ④ ᴴᴰ
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinb4.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 4" tvg-name="beIN SPORTS 4" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", beIN SPORTS ④ ᴴᴰ
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium67/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", beIN SPORTS ④ 
+http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&pid=5594
+
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-name="beIN SPORTS 5" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ⑤ ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3831757618/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 5" tvg-name="beIN SPORTS 5" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", beIN SPORTS ⑤ ᴴᴰ
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinb5.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-name="beIN SPORTS 5" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ⑤
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4000315601/index.m3u8
+
+
+
+
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1.tr" tvg-name="beIN SPORTS MAX 1"  group-title="TR beIN SPORTS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ᴴᴰ ⓜⓐⓧ ① 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2832430535/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1" tvg-name="beIN SPORTS MAX 1"  group-title="TR beIN SPORTS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png", beIN SPORTS ᴴᴰ ⓜⓐⓧ ① 
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinbm1.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2.tr" tvg-name="beIN SPORTS MAX 2"  group-title="TR beIN SPORTS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ᴴᴰ ⓜⓐⓧ ②
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4017295127/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2" tvg-name="beIN SPORTS MAX 2"  group-title="TR beIN SPORTS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png", beIN SPORTS ᴴᴰ ⓜⓐⓧ ②
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinbm2.m3u8
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="S SPORT.tr" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", S Sport ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3531762195/index.m3u8
+
+
+#EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport  ᴴᴰ
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinss.m3u8
+
+
+
+#EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport
+https://217.30.11.74/e/3030.m3u8
+
+#EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport rec
+https://v.arectv13.sbs/static/ss1.m3u8
+
+
+#EXTINF:-1  tvg-id="S SPORT 2.tr" tvg-name="S SPORT 2"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", S Sport ② ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1234604880/index.m3u8
+
+#EXTINF:-1  tvg-id="S SPORT 2" tvg-name="S SPORT 2"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png", S Sport ② ᴴᴰ
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinss2.m3u8
+
+
+#EXTINF:-1 tvg-id="S SPORT 2" tvg-name="S SPORT 2"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png", S Sport ② rec
+https://v.arectv13.sbs/static/ss2.m3u8
+
+
+
+#EXTINF:-1  tvg-id="Spor Smart" tvg-name="Spor Smart"  group-title="TR SPOR" tvg-logo="https://tvprofil.com/img/kanali-logo/Spor_Smart_TR_logo.png?1733490573" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", SPOR Smart ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/31596047/index.m3u8
+
+#EXTINF:-1 tvg-id="Spor Smart.tr" tvg-name="Spor Smart"  group-title="TR SPOR" tvg-logo="https://tvprofil.com/img/kanali-logo/Spor_Smart_TR_logo.png?1733490573", SPOR Smart ᴴᴰ 
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinsmarts.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Spor Smart 2.tr" tvg-name="Spor Smart 2" group-title="TR SPOR" tvg-logo="https://tvprofil.com/img/kanali-logo/Spor_Smart_2_TR_logo_v2.png?1733490798" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", SPOR Smart ② ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2726496671/index.m3u8
+
+
+#EXTINF:-1tvg-id="Spor Smart 2" tvg-name="Spor Smart 2" group-title="TR SPOR" tvg-logo="https://tvprofil.com/img/kanali-logo/Spor_Smart_2_TR_logo_v2.png?1733490798", SPOR Smart ② ᴴᴰ 
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinsms2.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.tr" tvg-name="TİVİBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="TR SPOR", Tivibu SPOR ᴴᴰ
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+# ? https://yayin2.canlitv.fun/livetv/tivibuspor.stream/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.1.tr" tvg-name="TIVIBU SPOR 1" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-1-tr.png" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", Tivibu SPOR ① ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2896658744/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.1.tr" tvg-name="TIVIBU SPOR 1" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-1-tr.png" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", Tivibu SPOR ① ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1528949791/index.m3u8
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.1.tr" tvg-name="TIVIBU SPOR 1" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-1-tr.png", Tivibu SPOR ①
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint1.m3u8
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-name="TIVIBU SPOR 2" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-2-tr.png" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", Tivibu SPOR ② ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/478254799/index.m3u8
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-name="TIVIBU SPOR 2" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-2-tr.png", Tivibu SPOR ②
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint2.m3u8
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-name="TIVIBU SPOR 3" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-3-tr.png" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", Tivibu SPOR ③ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/568442751/index.m3u8
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-name="TIVIBU SPOR 3" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-3-tr.png", Tivibu SPOR ③
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint3.m3u8
+
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.4.tr" tvg-name="TİVİBU SPOR 4"group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-4-tr.png" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", Tivibu SPOR ④ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3307062704/index.m3u8
+
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-name="TIVIBU SPOR 3" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-4-tr.png", Tivibu SPOR ④ 
+#EXTVLCOPT:http-referrer=https://google.com
+#EXTVLCOPT:http-origin=https://google.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint4.m3u8
+
+
+
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ᵁᴴᴰ
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ① ᵁᴴᴰ
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ② ᵁᴴᴰ
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ③ ᵁᴴᴰ
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ④ ᵁᴴᴰ
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ⑤ ᵁᴴᴰ
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ⑥ ᵁᴴᴰ
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+
+
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABII SPOR 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2259480087/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABII SPOR SD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4022148175/index.m3u8
+
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3830691316/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ① ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3665914763/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ① ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3107708522/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ② ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2490165372/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ② ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2159469231/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ③ ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1489430754/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ③ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2546857708/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" VavooTurkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ④ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1375986171/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ④ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4088175397/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑤ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2661933413/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑤ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3839332198/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑥ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/270984838/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑥ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3713708963/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Sports Tv.tr" tvg-name="Sports Tv.tr" type="stream" group-title="TR SPOR" tvg-logo="https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png" , SPORTS TV ᴴᴰ
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 type="stream" tvg-id="CBCSportHD.az" tvg-name="CBC Sport HD" group-title="TR SPOR" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png", CBC SPORT ᴴᴰ
+https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8
+#EXTINF:-1 tvg-id="NBA TV.tr" tvg-name="NBA TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/nba_250x150.png" group-title="TR SPOR" , NBA TV ᵁᴴᴰ
+http://212.102.60.231/NBA_TV/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Bein_mediagroup_logo.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS 1 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2526338165/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Bein_mediagroup_logo.png",FR - BEIN SPORTS 1 HD : 
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium116/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FHD (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Bein_mediagroup_logo.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS 2 FHD 
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4151747240/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Bein_mediagroup_logo.png",FR - BEIN SPORTS 2 HD 
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium117/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Bein_mediagroup_logo.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", FR - BEIN SPORTS 3 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3758995179/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Bein_mediagroup_logo.png",FR - BEIN SPORTS 3 HD
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium118/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 4 (1)" tvg-logo="https://i.imgur.com/bwHNMLh.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS MAX 4 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4005135586/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.imgur.com/bwHNMLh.png",FR - BEIN SPORTS MAX 4 
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium494/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 5 (1)" tvg-logo="https://i.imgur.com/8Hj8ZiT.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS MAX 5 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3554258258/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.imgur.com/8Hj8ZiT.png",FR - BEIN SPORTS MAX 5
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium495/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 6 (1)" tvg-logo="https://i.imgur.com/Eh1130b.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS MAX 6 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2491012994/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.imgur.com/Eh1130b.png",FR - BEIN SPORTS MAX 6
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium496/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 7 (1)" tvg-logo="https://i.imgur.com/sMH0tFc.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS MAX 7 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2837052978/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.imgur.com/sMH0tFc.png",FR - BEIN SPORTS MAX 7
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium497/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 8 (1)" tvg-logo="https://i.imgur.com/VTzzoQP.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS MAX 8 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/726231523/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.imgur.com/VTzzoQP.png",FR - BEIN SPORTS MAX 8 
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium498/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 9 HD (1)" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS MAX 9 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3574544749/index.m3u8
+
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.imgur.com/dMTBut1.png",FR - BEIN SPORTS MAX 9
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium499/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 10 (1)" tvg-logo="https://i.imgur.com/lVB4Ao9.png" group-title="TR beIN SPORTS" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FR - BEIN SPORTS MAX 10 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3123667785/index.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.imgur.com/lVB4Ao9.png",FR - BEIN SPORTS MAX 10
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.iosplayer.ru/zeko/premium500/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR: TRT 4K" tvg-logo="https://i.ibb.co/hc704dp/trt4k.png" group-title="TR ULUSAL" http-referrer="https://vavoo.to/", TRT 4K
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3317656516/index.m3u8
+
+
+#EXTINF:-1  tvg-id="TRT 1.tr" tvg-name="TRT 1.tr" type="stream" group-title="TR ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" , TRT 1 ᴴᴰ
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" type="stream" group-title="TR ULUSAL" tvg-logo="https://i.imgur.com/MIEPLmH.png" tvg-rec="", SHOW TV ᴴᴰ
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" type="stream"  group-title="TR ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a4/20120803204625%21Kanal_D_logo.png" rec="", KANAL D ᴴᴰ
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" type="stream" group-title="TR ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/768px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" , NOW TV ᴴᴰ
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" type="stream" channelId="2187" group-title="TR ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/87/Logo_Star_TV_ab_2012.png?20120801150600" rec="", STAR TV ᴴᴰ
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+
+#EXTINF:-1  tvg-id="KANAL 7 HD.tr" tvg-name="KANAL 7 HD" type="stream" group-title="TR ULUSAL" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" rec="", KANAL 7 ᴴᴰ
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr"group-title="TR ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" , TV 8 ᴴᴰ 
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" type="stream"  group-title="TR ULUSAL" tvg-logo="https://i.imgur.com/a7RVGN8.png" , ATV ᴴᴰ
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+# ?http://116.202.238.88/ATV_TR/index.m3u8
+
+#EXTINF:-1  tvg-id="A2 HD.tr" tvg-name="A2 HD.tr" type="stream" group-title="TR ULUSAL" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png", A2 TV ᴴᴰ
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 tvg-id="TEVE2.tr" tvg-name="TEVE2 HD" type="stream"  group-title="TR ULUSAL" tvg-logo="https://i.imgur.com/p4GTH3I.png", teve2 ᴴᴰ
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/768px-Show_MAX_logo.svg.png" group-title="TR ULUSAL" , SHOWMAX  ᴴᴰ
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/tur/shmax.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TRT Haber.tr" tvg-name="TRT Haber.tr" type="stream" group-title="TR HABER" tvg-logo="https://i.ibb.co/jhL2zmz/trthaber.png" , TRT HABER ᴴᴰ
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" type="stream" " group-title="TR HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" , NTV ᴴᴰ
+https://tgn.bozztv.com/dvrfl05/gin-ntvtv/tracks-v1a1/mono.m3u8
+# ? https://yayin2.canlitv.fun/livetv/ntv.stream/master.m3u8
+#EXTINF:-1 tvg-id="HABER GLOBAL HD.tr" tvg-name="HABER GLOBAL HD.tr" type="stream" group-title="TR HABER" tvg-logo="https://i.ibb.co/c8sfywL/hg.png" , HABER GLOBAL ᴴᴰ
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+#EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-name="HABERTÜRK HD.tr" type="stream" group-title="TR HABER" tvg-logo="https://i.ibb.co/RzpRVZ0/haberturk.png" , HABERTÜRK ᴴᴰ
+https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
+#EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER HD.tr" type="stream" group-title="TR HABER" tvg-logo="https://i.ibb.co/t4vdscx/tgrt.png" , TGRT HABER ᴴᴰ
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-name="CNN TÜRK HD.tr" type="stream" group-title="TR HABER" tvg-logo="https://i.imgur.com/0h5Mj2J.png" , CNN TüRK ᴴᴰ
+https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="HALK TV.tr" tvg-name="HALK TV" type="stream" group-title="TR HABER" tvg-logo="https://i.ibb.co/5krrHCn/halktv.png" , HALK TV ᴴᴰ
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="A HABER HD.tr" tvg-name="A HABER HD.tr" type="stream" group-title="TR HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", A HABER ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3766846723/index.m3u8
+
+#EXTINF:-1 tvg-id="AKİT TV HD.tr" tvg-name="AKİT TV HD" type="stream"  group-title="TR HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/c/cf/20161004193153%21Akit_TV.png" , AKiT TV ᴴᴰ
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="KRT TV HD.tr" tvg-name="KRT TV" type="stream" group-title="TR HABER" tvg-logo="https://i.krttv.com.tr/storage/files/images/2024/04/17/logo-at-2x-3j7l.png" , KRT TV ᴴᴰ
+https://trn03.tulix.tv/gt-krttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" type="stream" group-title="TR HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" , TV 100 ᴴᴰ
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SÖZCÜ TV.tr" tvg-name="SÖZCÜ TV.tr" type="stream" group-title="TR HABER" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" , SöZCü TV ᴴᴰ
+https://yayin2.canlitv.fun/livetv/sozcutv.stream/master.m3u8
+
+
+
+#EXTINF:-1  tvg-id="24 TV HD.tr" tvg-name="24 HD.tr" type="stream" group-title="TR HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" , 24 TV ᴴᴰ
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1  tvg-id="TVNET HD.tr" tvg-name="TVNET HD" type="stream" group-title="TR HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tvnet.png" , TVNET ᴴᴰ
+https://canlitvulusal.xyz/live/tvnet/index.m3u8
+#EXTINF:-1 tvg-id="FLASH HABER.tr" tvg-name="FLASH HABER" type="stream" group-title="TR HABER" tvg-logo="https://pbs.twimg.com/profile_images/1676855402774896641/7UpV3OnC_400x400.png" , FLASH HABER ᴴᴰ
+https://tgn.bozztv.com/dvrfl05/gin-flashtv/tracks-v1a1/mono.m3u8
+# ? https://yayin2.canlitv.fun/livetv/flashtv.stream/master.m3u8
+
+#EXTINF:-1 tvg-id="ÜLKE TV HD.tr" tvg-name="ÜLKE TV HD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/ulket_250x150.png" group-title="TR HABER" , ULKE TV ᵁᴴᴰ
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 tvg-id="EKOL TV.tr" tvg-name="EKOL TV.tr" type="stream" group-title="TR HABER" tvg-logo="https://i.hizliresim.com/71l1mue.png" , EKOL TV ᴴᴰ
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1  tvg-id="TELE1.tr" tvg-name="TELE 1" type="stream" group-title="TR HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" , TELE 1 ᴴᴰ
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 tvg-id="CNBC-e.tr" tvg-name="CNBC-e.tr" tvg-logo="https://s.cnbce.com/dist/images/logo-cnbce.png" group-title="TR HABER" , CNBC-e ᵁᴴᴰ
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&e=.ts
+
+#EXTINF:-1 tvg-id="A PARA HD.tr" tvg-name="A PARA HD.tr" tvg-logo="https://i.ibb.co/qkhVYy6/a-para.png" group-title="TR HABER"  http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", A PARA ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2318923445/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bloomberg_250x150.png" group-title="TR HABER" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", BLOOMBERG HT ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/223866535/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-name="BEYAZ TV HD" type="stream" channelId="18" group-title="TR ULUSAL" tvg-logo="https://i.ibb.co/42FQwtx/beyazzz.png" , BEYAZ TV ᴴᴰ
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 type="stream" group-title="TR HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/300px-TBMM_TV_logo.svg.png" , TBMM TV ᴴᴰ
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 tvg-id="TRT WORLD HD.tr" tvg-name="TRT WORLD HD.tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.14.57/afb285c992c744fe83f01388e262b839.png" group-title="TR HABER" , TRT WORLD ᴴᴰ
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT ARABI.tr" tvg-name="TRT ARABI.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/768px-TRT_Arabi_logo.svg.png" group-title="TR HABER" , TRT  عربي ᴴᴰ
+https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRT AVAZ.tr" tvg-name="TRT AVAZ" type="stream" group-title="TR ULUSAL" tvg-logo="https://i.ibb.co/7vdWcBr/trtavaz.png" , TRT AVAZ ᴴᴰ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT TÜRK.tr" tvg-name="TRT TÜRK" type="stream" group-title="TR ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/768px-TRT_T%C3%BCrk_logo.svg.png" , TRT TÜRK ᴴᴰ 
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" type="stream" group-title="TR ULUSAL" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/png/tv4.png" , TV4 ᴴᴰ
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" type="stream" group-title="TR ULUSAL" tvg-logo="https://www.turkmedya.com.tr/assets/img/logo/logo_360tv.png" , 360 ᴴᴰ
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TRT 2.tr" tvg-name="TRT 2.tr" type="stream" group-title="TR BELGESEL" tvg-logo="https://i.ibb.co/WKXSwL8/trt2.png" , TRT 2 ᴴᴰ
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+
+#EXTINF:-1 tvg-id="TRT BELGESEL.tr" tvg-name="TRT BELGESEL.tr" type="stream" group-title="TR BELGESEL" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png" rec="", TRT BELGESEL ᴴᴰ
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX HD" tvg-logo="https://i.ibb.co/Ss7DmRL/dmax.png" group-title="TR BELGESEL" , DMAX ᵁᴴᴰ
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://i.ibb.co/SR0KWCS/tlc.png" group-title="TR BELGESEL" , TLC ᵁᴴᴰ
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+# ? https://yayin2.canlitv.fun/livetv/tlc.stream/master.m3u8
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.ibb.co/WsyD2MR/natgeo.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", NAT GEO ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1845660630/index.m3u8
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.ibb.co/zGkL0xB/wi.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/ , NAT GEO WILD ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/132416616/index.m3u8
+
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD HD" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.hizliresim.com/q3uvq5h.png" group-title="TR BELGESEL" , NAT GEO ANIMALS ᵁᴴᴰ
+https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=0-ULTdNUtDo.m3u8
+
+#EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-name="LOVE NATURE HD" tvg-logo="https://i.ibb.co/9tRtyfR/lovenature.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/, LOVE NATURE ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2593800839/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.tr" tvg-name="DISCOVERY CHANNEL"tvg-logo="https://i.ibb.co/5MYZ93D/discovery.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", DISCOVERY CHANNEL ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3079995901/index.m3u8
+
+#EXTINF:-1 tvg-id="ID.tr" tvg-name="DISCOVERY ID (7)" tvg-logo="https://i.ibb.co/ZHP5Xrc/discoveryid.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", DISCOVERY ID ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/972730032/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="History Channel.tr" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/649px-History_%282021%29.svg.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", HISTORY CHANNEL ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4207487562/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-name="BBC EARTH"tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", BBC EARTH ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2613731614/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="YABAN TV.tr" tvg-name="YABAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/180px-Yabantv_logo.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", YABAN TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1788503935/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN GURME.tr" tvg-name="beIN GURME"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Gurme_HD_yeni.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN GURME ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3583230858/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN İZ.tr" tvg-name="beIN İZ" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Iz_HD_250x150px_yeni.png" group-title="TR BELGESEL" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN IZ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1691223078/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" tvg-name="beIN MOVIES TURK"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Turk_HD_yeni.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN MOVIES TURK ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1835579025/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="beIN MOVIES FAMILY.tr" tvg-name="BEIN MOVIES FAMILY (6)" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-family-logo.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN MOVIES FAMILY ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2485199152/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE.tr" tvg-name="beIN MOVIES PREMIERE" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Premiere_HD_yeni.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN MOVIES PREMIERE ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/942987224/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="beIN MOVIES STARS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Stars_HD_yeni.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",beIN MOVIES STARS ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2500913164/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beIN MOVIES STARS" tvg-name="beIN MOVIES STARS" tvg-logo="https://i.imgur.com/i0RMIdh.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",beIN BOX Office 1 ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1320363850/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN MOVIES STARS" tvg-name="beIN MOVIES STARS" tvg-logo="https://i.imgur.com/RKQZWWn.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",beIN BOX Office 2 ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/152264090/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN MOVIES STARS" tvg-name="beIN MOVIES STARS" tvg-logo="https://i.imgur.com/5NZur1S.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",beIN BOX Office 3 ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/879981610/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SERIES 1" tvg-name="BEIN SERIES 1 (6)"tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SERIES 1 ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2190922298/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN SERIES 2" tvg-name="BEIN SERIES 2 (6)" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-2-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SERIES 2 ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3308693738/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN SERIES 3" tvg-name="BEIN SERIES 3 (6)"  tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SERIES 3 ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4166418778/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN SERIES 4" tvg-name="BEIN SERIES 4 (6)"  tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SERIES 4 ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1249271114/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="MovieSmart Turk"  tvg-logo="https://i.ibb.co/YDmkmpj/dsmartturk.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", MOVIESMART TURK ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/353384054/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MovieSmart Classic.tr" tvg-name="MovieSmart Classic" tvg-logo="https://i.ibb.co/DRJ7NVB/dsmartclasic.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", MOVIESMART CLASSIC ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3597292408/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Dizi Smart Max.tr" tvg-name="Dizi Smart Max" tvg-name="TR: DIZI SMART MAX ᵁᴴᴰ" tvg-logo="https://i.ibb.co/3dpjFsp/dsmartmax.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", DIZI SMART MAX ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1165201807/index.m3u8
+
+#EXTINF:-1 tvg-id="Dizi Smart Premium.tr" tvg-name="Dizi Smart Premium"tvg-name="TR: DIZI SMART PREMİUM ᵁᴴᴰ" tvg-logo="https://i.ibb.co/Xx8PG5D/dsmartpremium.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", DIZI SMART PREMİUM ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1195429280/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Sinema Tv.tr" tvg-name="Sinema TV" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210422003521.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", SİNEMA TV ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1617719941/index.m3u8
+
+#EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210422003522.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", SİNEMA TV YERLİ ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2484805699/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SİNEMA YERLİ HD" tvg-name="SİNEMA YERLİ HD"tvg-logo="https://i.hizliresim.com/3yj6ic7.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", FİBER BOX + ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2600387615/index.m3u8
+
+
+#EXTINF:-1 tvg-id="FX HD.tr" tvg-logo="https://i.imgur.com/qSeBqMg.png" group-title="TR SİNE-DİZİ" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", FX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3821433649/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Yeşilçam" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://pbs.twimg.com/profile_images/1649316238940594176/UZ1m-jC1_400x400.jpg" group-title="TR SİNE-DİZİ", TAFF
+https://ythls.kekikakademi.org/youtube/channel/UCEz0vUNtEPYyxhM-xKhQ4EQ.m3u8
+# ?https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=Hc-2ShK4YHI.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Yeşilçam" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.pinimg.com/736x/2c/97/15/2c971516cfe68fe2671ee137434b27c3.jpg" group-title="TR SİNE-DİZİ",Yeşilçam
+https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+# ?https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=FGL1GwoRRIw.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Kemal Sunal" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f8/Kemal_Sunal.gif/220px-Kemal_Sunal.gif" group-title="TR SİNE-DİZİ",Kemal Sunal
+https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
+# ?https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=7Dyl4qIpfBA.m3u8
+
+
+#EXTINF:-1 tvg-name="Kemal Sunal" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://cdn.webtekno.com/media/cache/content_detail_v2/article/122913/zeki-alasya-metin-akpinar-filmleri-1651741929.jpg" group-title="TR SİNE-DİZİ",Zeki-Metin
+https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=9ZMh3wSverE.m3u8
+
+#EXTINF:-1 tvg-name="Şener Şen" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbi7_GuoyrRJUmAnL-1_UYIQAcP7q3U-GihbjgNuNOSlp8eKs22W9BexqUYuV5HFIwK8&usqp=CAU" group-title="TR SİNE-DİZİ",Gülşah Film
+https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+# ?https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=hfx8H7YrmTw.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Şener Şen" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8b/Arzu_film_logo.jpg/800px-Arzu_film_logo.jpg" group-title="TR SİNE-DİZİ",Arzu Film
+https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=wi75yRkoK4A.m3u8
+
+
+#EXTINF:-1 tvg-name="Güldür Güldür" tvg-language="Turkish" tvg-country="TR"  tvg-logo="https://images.discovery-prod.axs.com/2024/10/guldur-guldur-show-tickets_04-11-25_17_670fa53d6cf7d.png" group-title="TR SİNE-DİZİ",Güldür Güldür
+https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
+# ?https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=sifZrlmoCus.m3u8
+
+#EXTINF:-1 tvg-name="Çok Güzel Hareketler 2" tvg-language="Turkish" tvg-country="TR"  tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/%C3%87ghb2.png" group-title="TR SİNE-DİZİ",Çok Güzel Hareketler 2
+https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=iSs2JX68DZw.m3u8
+# ?https://ythls.kekikakademi.org/youtube/channel/UCJhEfZoLs5P_idxX--yhWOA.m3u8
+
+
+#EXTINF:-1 tvg-name="Geniş Aile" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_GenisAile" tvg-logo="https://media.startv.com.tr/star-tv//images/6d85d4ed4bc3b06c5d6ef108.jpg" group-title="TR SİNE-DİZİ",Geniş Aile
+# ?https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
+
+#EXTINF:-1 tvg-name="tolgshow" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_GenisAile" tvg-logo="https://blog.biletix.com/wp-content/uploads/2022/06/tolgshow.png" group-title="TR SİNE-DİZİ",Tolgshow
+https://ythls.kekikakademi.org/youtube/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
+
+
+#EXTINF:-1 tvg-name="Geniş Aile" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_GenisAile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/%C3%87ocuklar_Duymas%C4%B1n_logo_%282017-2019%29.png" group-title="TR SİNE-DİZİ",Çocuklar Duymasın
+https://ythls.kekikakademi.org/youtube/channel/UCT-esPYdSgROctgOKnJ0AjA.m3u8
+
+#EXTINF:-1 tvg-name="Yedi Numara" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://trt-public-static.trt.com.tr/trt1/public/dm_videolar/thmb/f93ea9a1-7bb1-4a15-b455-b6fd80600534.jpg" group-title="TR SİNE-DİZİ",Yedi Numara
+https://ythls.kekikakademi.org/youtube/channel/UC0GKelxahF1nHwKyGhfJVYA.m3u8
+# ?https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=rS5dHYQsSxs.m3u8
+
+
+#EXTINF:-1 tvg-name="Leyla ile Mecnun" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Leyla-ile-mecnun.png" group-title="TR SİNE-DİZİ",Leyla ile Mecnun
+https://ythls.kekikakademi.org/youtube/channel/UCmODRwQLSOr5GEG77Uf_zpQ.m3u8
+# ?https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=3nlND4audLg.m3u8
+
+#EXTINF:-1  tvg-id="tabiitv.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SİNE-DİZİ", TABii TV ᵁᴴᴰ
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="VAV TV.tr" tvg-name="VAV TV " tvg-logo="https://i.tmgrup.com.tr/vavtv/site/v1/i/logo.png" group-title="TR ULUSAL", VAV TV ᵁᴴᴰ
+https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=aI65zlH3UT8.m3u8
+
+#EXTINF:-1 tvg-id="DİYANET TV.tr" tvg-name="DİYANET TV" tvg-logo="https://i.ibb.co/ZSh52y2/diyanet.png" group-title="TR ULUSAL" , DİYANET TV ᵁᴴᴰ
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="KABE TV CANLI (1)" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-quran-al-kareem-tv-logo.png"group-title="TR ULUSAL", KABE ᴴᴰ
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TRT MÜZİK.tr" tvg-name="TR: TRT MÜZİK ᴴᴰ" tvg-logo="https://i.ibb.co/XpYGhpK/trtm-zik.png" group-title="TR MÜZİK" , TRT MÜZİK ᴴᴰ
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="TR: NUMBER 1 TÜRK ᴴᴰ" tvg-logo="https://i.ibb.co/Jv9n3ZN/1111111.png" group-title="TR MÜZİK", NUMBER 1 TÜRK ᴴᴰ
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+
+#EXTINF:-1 type="stream" group-title="TR MÜZİK" tvg-logo="https://cdn-profiles.tunein.com/s25210/images/bannerx.jpg?t=636444567802000000", KRAL POP TV ᴴᴰ
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR MÜZİK" tvg-logo="https://tv.donmaztv.com/tatlises-tv.png", TATLISES TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Power Love" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerLove" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png" group-title="TR MÜZİK", Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Akustik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkAkustik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2542.png" group-title="TR MÜZİK", PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Slow" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkSlow" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2577.png"group-title="TR MÜZİK", PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 type="stream" group-title="TR MÜZİK" tvg-logo="https://i.ibb.co/16PjS9k/powerturk.png", POWER TÜRK Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="TR: POWER TÜRK ᴴᴰ" tvg-logo="https://i.ibb.co/16PjS9k/powerturk.png" group-title="TR MÜZİK", POWER TÜRK ᴴᴰ
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 type="stream" group-title="TR ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TRT_Diyanet_Çocuk_logo.svg/768px-TRT_Diyanet_Çocuk_logo.svg.png", Diyanet Cocuk ᴴᴰ
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TR: TRT ÇOCUK ᴴᴰ" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20211104270806.png" group-title="TR ÇOCUK", TRT ÇOCUK ᴴᴰ
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="EBATVIlkokul.tr" tvg-name="TR: EBA TV ILKOKUL ᴴᴰ" tvg-logo="https://i.ibb.co/Kb567Vt/ebailkokul.png" group-title="TR ÇOCUK", EBA TV ILKOKUL ᴴᴰ
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-name="TR: EBA TV ORTAOKUL ᴴᴰ" tvg-logo="https://i.ibb.co/0mS4KNv/ebaortaokul.png" group-title="TR ÇOCUK", EBA TV ORTAOKUL ᴴᴰ
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="EBATVLise.tr" tvg-name="TR: EBA TV LISE ᴴᴰ" tvg-logo="https://i.ibb.co/FKvgfwk/ebalise.png" group-title="TR ÇOCUK", EBA TV LISE ᴴᴰ
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
