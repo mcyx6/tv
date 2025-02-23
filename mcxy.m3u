@@ -164,7 +164,7 @@ https://zekonew.iosplayer.ru/zeko/premium64/index.m3u8
 #EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , beIN SPORTS ③ 
 http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=48566
 
-#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , beIN SPORTS ③ s
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , beIN SPORTS ③ 
 https://serveranon1.online:8443/703/index.m3u8
 
 
