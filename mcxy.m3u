@@ -105,8 +105,8 @@ http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&
 https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinzirve.m3u8
 
 
-#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", beIN SPORTS ① ᴴᴰ
-https://16mumdur.shop/701/index.m3u8
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", beIN SPORTS ① ᴴᴰ 
+https://serveranon1.online:8443/701/index.m3u8
 
 #EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", beIN SPORTS ①
 https://217.30.11.74/e/6570.m3u8
@@ -163,6 +163,9 @@ https://zekonew.iosplayer.ru/zeko/premium64/index.m3u8
 
 #EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , beIN SPORTS ③ 
 http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=48566
+
+#EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , beIN SPORTS ③ s
+https://serveranon1.online:8443/703/index.m3u8
 
 
 
@@ -270,13 +273,16 @@ https://www.vavoo.to/play/3531762195/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinss.m3u8
 
-
+#EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport  ᴴᴰ
+https://serveranon1.online:8443/705/index.m3u8
 
 #EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport
 https://217.30.11.74/e/3030.m3u8
 
 #EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport rec
-https://v.arectv13.sbs/static/ss1.m3u8
+https://v.arectv11.sbs/static/ssport1.m3u8
+
+
 
 
 #EXTINF:-1  tvg-id="S SPORT 2.tr" tvg-name="S SPORT 2"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", S Sport ② ᵁᴴᴰ
@@ -295,9 +301,13 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinss2.m3u8
 
 
 #EXTINF:-1 tvg-id="S SPORT 2" tvg-name="S SPORT 2"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png", S Sport ② rec
-https://v.arectv13.sbs/static/ss2.m3u8
+https://v.arectv11.sbs/static/ssport2.m3u8
 
+#EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport Plus ①
+https://v.arectv11.sbs/static/pl1.m3u8
 
+#EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport Plus ②
+https://v.arectv11.sbs/static/pl2.m3u8
 
 #EXTINF:-1  tvg-id="Spor Smart" tvg-name="Spor Smart"  group-title="TR SPOR" tvg-logo="https://tvprofil.com/img/kanali-logo/Spor_Smart_TR_logo.png?1733490573" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", SPOR Smart ᵁᴴᴰ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -408,128 +418,6 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint4.m3u8
 
 
 
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ᵁᴴᴰ
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ① ᵁᴴᴰ
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ② ᵁᴴᴰ
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ③ ᵁᴴᴰ
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ④ ᵁᴴᴰ
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ⑤ ᵁᴴᴰ
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR", TABii SPOR ⑥ ᵁᴴᴰ
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-
-
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABII SPOR 
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/2259480087/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABII SPOR SD 
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/4022148175/index.m3u8
-
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ᵁᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/3830691316/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ① ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/3665914763/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ① ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/3107708522/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ② ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/2490165372/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ② ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/2159469231/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ③ ᵁᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/1489430754/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ③ ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/2546857708/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" VavooTurkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ④ ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/1375986171/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ④ ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/4088175397/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑤ ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/2661933413/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑤ ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/3839332198/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑥ ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/270984838/index.m3u8
-#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SPOR" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑥ ᴴᴰ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
-https://www.vavoo.to/play/3713708963/index.m3u8
 
 
 
@@ -543,6 +431,128 @@ http://212.102.60.231/NBA_TV/index.m3u8
 
 
 
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor", TABii SPOR ᵁᴴᴰ
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor", TABii SPOR ① ᵁᴴᴰ
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor", TABii SPOR ② ᵁᴴᴰ
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor", TABii SPOR ③ ᵁᴴᴰ
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor", TABii SPOR ④ ᵁᴴᴰ
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor", TABii SPOR ⑤ ᵁᴴᴰ
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor", TABii SPOR ⑥ ᵁᴴᴰ
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+
+
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABII SPOR 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2259480087/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABII SPOR SD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4022148175/index.m3u8
+
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3830691316/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ① ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3665914763/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ① ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3107708522/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ② ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2490165372/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ② ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2159469231/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ③ ᵁᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1489430754/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ③ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2546857708/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" VavooTurkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ④ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/1375986171/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ④ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/4088175397/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑤ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/2661933413/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑤ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3839332198/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑥ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/270984838/index.m3u8
+#EXTINF:-1  tvg-id="tabii spor.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR Tabii Spor" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", TABii SPOR ⑥ ᴴᴰ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/2.6
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
+https://www.vavoo.to/play/3713708963/index.m3u8
 
 
 
