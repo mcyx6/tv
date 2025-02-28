@@ -13,6 +13,7 @@
 
 
 
+
 #EXTINF:-1  tvg-id="TRT SPOR HD.tr" tvg-name="TRT SPOR HD" type="stream"  group-title="TR SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png" , TRT SPOR ᴴᴰ
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 
@@ -30,7 +31,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV8,5.tr" tvg-name="TV85" group-title="TR SPOR" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/TV-85.png", TV 8.5 ᴴᴰ
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 # ? https://tv.arectv11.sbs/live/tv85.m3u8
-
 
 #EXTINF:-1 tvg-id="beIN SPORTS HABER.tr" tvg-name="beIN SPORTS HABER" type="stream" group-title="TR SPOR" tvg-logo="https://i.imgur.com/jnCFU1q.png", beIN SPORTS HABER ᴴᴰ
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
@@ -1228,10 +1228,12 @@ https://ythls.kekikakademi.org/youtube/channel/UC0GKelxahF1nHwKyGhfJVYA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCmODRwQLSOr5GEG77Uf_zpQ.m3u8
 # ?https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=3nlND4audLg.m3u8
 
+#EXTINF:-1 tvg-name="Kurtlar Vadisi" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://styles.redditmedia.com/t5_392fp/styles/communityIcon_9ipsv0xu0kld1.png" group-title="TR SİNE-DİZİ",Kurtlar Vadisi
+https://ythls.kekikakademi.org/youtube/channel/UCABzirZ6FyebIf8YSptKMwQ.m3u8
+
+
 #EXTINF:-1  tvg-id="tabiitv.tr" tvg-name="tabii spor.tr" type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/768px-Tabii_logo.svg.png" group-title="TR SİNE-DİZİ", TABii TV ᵁᴴᴰ
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
-
-
 
 
 
