@@ -97,11 +97,6 @@ https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
 #EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://i.ibb.co/sp7xtSB/bein4k.png" , beIN SPORTS ① ᵁᴴᴰ
 http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&pid=13983
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="TR beIN SPORTS", beIN SPORTS ① ᶻᶦʳᵛᵉ
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinzirve.m3u8
 
 
 #EXTINF:-1 type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", beIN SPORTS ① ᴴᴰ 
@@ -118,13 +113,6 @@ https://217.30.11.74/e/6570.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/3694662475/index.m3u8
-
-
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png", beIN SPORTS ② ᴴᴰ
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinb2.m3u8
 
 
 
@@ -148,11 +136,7 @@ http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/3410167560/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png", beIN SPORTS ③ ᴴᴰ 
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinb3.m3u8
+
 
 #EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png", beIN SPORTS ③ ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -178,11 +162,6 @@ https://www.vavoo.to/play/2938268353/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="beIN SPORTS 4" tvg-name="beIN SPORTS 4" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", beIN SPORTS ④ ᴴᴰ
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinb4.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS 4" tvg-name="beIN SPORTS 4" type="stream" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", beIN SPORTS ④ ᴴᴰ
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -205,11 +184,6 @@ http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&
 https://www.vavoo.to/play/3831757618/index.m3u8
 
 
-#EXTINF:-1 tvg-id="beIN SPORTS 5" tvg-name="beIN SPORTS 5" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", beIN SPORTS ⑤ ᴴᴰ
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinb5.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-name="beIN SPORTS 5" group-title="TR beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ⑤
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -231,11 +205,7 @@ https://www.vavoo.to/play/4000315601/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/2832430535/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 1" tvg-name="beIN SPORTS MAX 1"  group-title="TR beIN SPORTS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png", beIN SPORTS ᴴᴰ ⓜⓐⓧ ① 
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinbm1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 2.tr" tvg-name="beIN SPORTS MAX 2"  group-title="TR beIN SPORTS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/", beIN SPORTS ᴴᴰ ⓜⓐⓧ ②
@@ -246,11 +216,7 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinbm1.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/4017295127/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 2" tvg-name="beIN SPORTS MAX 2"  group-title="TR beIN SPORTS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png", beIN SPORTS ᴴᴰ ⓜⓐⓧ ②
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinbm2.m3u8
+
 
 
 
@@ -265,12 +231,6 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinbm2.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/3531762195/index.m3u8
 
-
-#EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport  ᴴᴰ
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinss.m3u8
 
 #EXTINF:-1  tvg-id="S SPORT" tvg-name="S SPORT"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/J21wJ55/s-sport.png", S Sport  ᴴᴰ
 https://serveranon1.online:8443/705/index.m3u8
@@ -292,11 +252,6 @@ https://v.arectv11.sbs/static/ssport1.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/1234604880/index.m3u8
 
-#EXTINF:-1  tvg-id="S SPORT 2" tvg-name="S SPORT 2"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png", S Sport ② ᴴᴰ
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinss2.m3u8
 
 
 #EXTINF:-1 tvg-id="S SPORT 2" tvg-name="S SPORT 2"  group-title="TR SPOR" tvg-logo="https://i.ibb.co/XY3v7Gd/ssportt22.png", S Sport ② rec
@@ -316,11 +271,7 @@ https://v.arectv11.sbs/static/pl2.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/31596047/index.m3u8
 
-#EXTINF:-1 tvg-id="Spor Smart.tr" tvg-name="Spor Smart"  group-title="TR SPOR" tvg-logo="https://tvprofil.com/img/kanali-logo/Spor_Smart_TR_logo.png?1733490573", SPOR Smart ᴴᴰ 
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinsmarts.m3u8
+
 
 
 
@@ -333,11 +284,6 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinsmarts.m3u8
 https://www.vavoo.to/play/2726496671/index.m3u8
 
 
-#EXTINF:-1tvg-id="Spor Smart 2" tvg-name="Spor Smart 2" group-title="TR SPOR" tvg-logo="https://tvprofil.com/img/kanali-logo/Spor_Smart_2_TR_logo_v2.png?1733490798", SPOR Smart ② ᴴᴰ 
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinsms2.m3u8
 
 
 
@@ -366,11 +312,6 @@ https://www.vavoo.to/play/2896658744/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/1528949791/index.m3u8
 
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.1.tr" tvg-name="TIVIBU SPOR 1" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-1-tr.png", Tivibu SPOR ①
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint1.m3u8
 
 #EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-name="TIVIBU SPOR 2" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-2-tr.png" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", Tivibu SPOR ② ᴴᴰ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -380,11 +321,7 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint1.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/478254799/index.m3u8
 
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-name="TIVIBU SPOR 2" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-2-tr.png", Tivibu SPOR ②
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint2.m3u8
+
 
 #EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-name="TIVIBU SPOR 3" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-3-tr.png" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", Tivibu SPOR ③ ᴴᴰ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -394,11 +331,7 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint2.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/568442751/index.m3u8
 
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-name="TIVIBU SPOR 3" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-3-tr.png", Tivibu SPOR ③
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint3.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TİVİBU.SPOR.4.tr" tvg-name="TİVİBU SPOR 4"group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-4-tr.png" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/", Tivibu SPOR ④ ᴴᴰ
@@ -409,11 +342,7 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint3.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://www.vavoo.to/play/3307062704/index.m3u8
 
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-name="TIVIBU SPOR 3" group-title="TR SPOR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-4-tr.png", Tivibu SPOR ④ 
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayint4.m3u8
+
 
 
 
